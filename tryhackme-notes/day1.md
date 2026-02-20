@@ -1,0 +1,4 @@
+- Learned that ethical hacking is legal testing with permission
+- Confused about how attackers find vulnerabilities
+- learnt about offencive hacking which involves things like a hacker to prevent and mishaps
+- also leant about some basics.
